@@ -1,0 +1,40 @@
+.navbar{
+  color: white;
+}
+
+.articleImage{
+  height: 300px;
+  width: 400px
+}
+
+.articleDiv{
+  margin: 20px 0
+}
+.title{
+  margin-bottom: 50px;
+}
+.main {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.api-box{
+  padding: 150px 50px
+}
+
+.weather{
+text-align: center;
+}
+
+#weatherWidget{
+  color: black;
+  text-align: center;
+  padding: 5px;
+  margin-left: 10px;
+  margin-top: 15px;
+  background-color: green;
+}
+
+.headlines{
+  text-align: center;
+}
